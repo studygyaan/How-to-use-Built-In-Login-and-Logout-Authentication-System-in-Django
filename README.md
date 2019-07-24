@@ -1,4 +1,4 @@
-# Django built-In Login Logout, Change Password, Reset Password and Sign Up Registeration
+# How to write Django Custom Template Tags and Filters
 
 ### Tutorial Link - https://studygyaan.com/django/how-to-write-django-custom-template-tags-and-filters
 
